@@ -1,6 +1,6 @@
 # Tintolmarket Fase 2 - Compilar e Executar
 
-Este documento explica como compilar e executar o projeto Tintolmarket Fase 2. Na primeira fase, foram implementadas as funcionalidades básicas do serviço, como a interação entre a aplicação Cliente e Servidor, e a gestão das informações dos utilizadores e vinhos.
+Este documento explica como compilar e executar o projeto Tintolmarket Fase 2. Na <a href="https://github.com/AnaLiliaTeixeira/Tintolmarket_fase1">primeira fase</a> do projeto foram implementadas as funcionalidades básicas do serviço, como a interação entre a aplicação Cliente e Servidor, e a gestão das informações dos utilizadores e vinhos.
 
 Agora, na segunda fase do projeto, o foco será nos requisitos de segurança, garantindo que as interações e o sistema como um todo sejam seguros. As funcionalidades da primeira fase serão mantidas, mas em alguns casos, a implementação será adaptada para cumprir os requisitos de segurança.
 
